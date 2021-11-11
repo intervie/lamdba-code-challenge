@@ -6,5 +6,9 @@ public class CodeChallenge {
     return target;
   }
 
+  public int[] twoSum(int[] nums, int target) {
+    return nums;
+  }
+
 
 }
