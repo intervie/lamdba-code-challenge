@@ -10,7 +10,7 @@ public class ChallengeUtils {
   public static List<Product> getProducts() {
     return List.of(
       new Product(1L, "BluRay", 35.45, "Electronics"),
-      new Product(2L, "MacBook", 1500.0, "Electronics"),
+      new Product(2L, "MacBook", 3500.11, "Electronics"),
       new Product(3L, "Iphone 100X", 3500.10, "Electronics"),
 
       new Product(4L, "Clean Code", 101.00, "Books"),
